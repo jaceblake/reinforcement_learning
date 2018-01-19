@@ -1,0 +1,29 @@
+Aufgabe1)...
+
+with α=1/2 and γ=1
+
+State             Elapsed Time      Predicted Time to Go    Predicted Total Time     MC: Vnew    TD: Vnew
+
+leaving office       0                    30                        30                   36.5       35
+friday at 6
+
+
+reach car, raining   5                    35                        40                   36.5       32.5  
+
+
+exiting highway     20                    15                        35                    19        17.5
+
+
+2ndary road,
+behind truck        30                    10                        40                    11.5       11.5
+
+entering home,      40                     3                        43                      3        3
+street
+
+arrive home         43                     0                        43                      0        0
+
+
+Aufgabe2)...
+
+
+
